@@ -8,7 +8,8 @@
     "build": "tsc --project tsconfig.build.json",
     "test": "jest --coverage"
   },
-  "author": "SR",
+  "author": "Adam Stachura",
+  "task_author": "SR",
   "license": "MIT",
   "devDependencies": {
     "@types/express": "^5.0.0",
